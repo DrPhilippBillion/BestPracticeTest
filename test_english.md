@@ -71,6 +71,7 @@ An OpenAPI definition can then be used by documentation generation tools to disp
 <!-- /TOC -->
 
 ## Definitions
+In french now
 
 ##### <a name="oasDocument"></a>OpenAPI Document
 A self-contained or composite resource which defines or describes an API or elements of an API. The OpenAPI document MUST contain at least one [paths](#pathsObject) field, a [components](#oasComponents) field or a [webhooks](#oasWebhooks) field. An OpenAPI document uses and conforms to the OpenAPI Specification.
